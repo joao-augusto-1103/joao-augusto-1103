@@ -88,5 +88,8 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Keep+learning+%26+keep+creating!;Dream+it.+Code+it.+Ship+it.🚀" alt="Typing animation"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=140&section=header&text=Jo%C3%A3o%20Augusto&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=twinkling"
+    alt="Header banner"
+  />
 </div>

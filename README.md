@@ -7,10 +7,10 @@
 ---
 
 <div align="center">
-  <img height="220" src="https://img1.picmix.com/output/stamp/normal/6/5/5/1/2621556_3a7b1.gif" 
-       alt="Cool animation"
-       style="border: 4px solid transparent; border-image: linear-gradient(45deg, #00C9FF, #92FE9D) 1; border-radius:12px;"/>
+  <img height="220" src="https://img1.picmix.com/output/stamp/normal/6/5/5/1/2621556_3a7b1.gif" alt="Cool animation"/>
+  <p><em>“Coding vibes activated ⚡”</em></p>
 </div>
+
 
 
 

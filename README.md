@@ -62,16 +62,16 @@ I love blending **design** and **technology** to craft seamless user interfaces.
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEULINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-augusto-silva-martins-2b523a1a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+  <a href="mailto:joaoaugustosm1103@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/SEUNUMERO" target="_blank">
+  <a href="https://wa.me/17992459258" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/SEUINSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/joao_augustosm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>

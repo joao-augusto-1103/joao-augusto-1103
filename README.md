@@ -6,10 +6,12 @@
 
 ---
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:20px;">
-  <img height="220" style="border-radius:12px; box-shadow:0 0 20px rgba(0,255,255,0.4);" 
-       src="https://img1.picmix.com/output/stamp/normal/6/5/5/1/2621556_3a7b1.gif" alt="Cool animation"/>
+<div align="center">
+  <img height="220" src="https://img1.picmix.com/output/stamp/normal/6/5/5/1/2621556_3a7b1.gif" 
+       alt="Cool animation"
+       style="border: 4px solid transparent; border-image: linear-gradient(45deg, #00C9FF, #92FE9D) 1; border-radius:12px;"/>
 </div>
+
 
 
 ---

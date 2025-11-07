@@ -81,7 +81,7 @@ I love blending **design** and **technology** to craft seamless user interfaces.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00E0FF&icon_color=00E0FF"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joao-augusto-1103&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00E0FF&icon_color=00E0FF"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00E0FF"/>
 </div>
 

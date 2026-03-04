@@ -32,8 +32,6 @@ I love blending **design** and **technology** to craft seamless user interfaces.
   <img width="14"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
-  <img width="14"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
   <img width="14"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
@@ -74,15 +72,6 @@ I love blending **design** and **technology** to craft seamless user interfaces.
   <a href="https://www.instagram.com/joao_augustosm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joao-augusto-1103&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00E0FF&icon_color=00E0FF"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00E0FF"/>
 </div>
 
 ---

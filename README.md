@@ -12,9 +12,8 @@
 <br/>
 
 <div align="center">
-  <img height="180" src="https://img1.picmix.com/output/stamp/normal/6/5/5/1/2621556_3a7b1.gif" alt="Cool animation" style="border-radius:12px;" />
-  <br/>
-  <em style="color:#64748b">"Where creativity meets code." ⚡</em>
+  <img height="200" src="https://img1.picmix.com/output/stamp/normal/6/5/5/1/2621556_3a7b1.gif" alt="Cool animation" style="border-radius:12px; margin-top:10px;" />
+  <p><em>“Where creativity meets code.” ⚡</em></p>
 </div>
 
 ---
